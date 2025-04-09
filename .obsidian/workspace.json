@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "cf286aea4237da5f",
+            "id": "86039cbc0c8ebd4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Archives/Video - My Dream Canvas.md",
+                "file": "08 - Zettelkasten Method0/1 - Fleeting Notes/Percobaan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video - My Dream Canvas"
+              "title": "Percobaan"
             }
           }
         ],
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Archives/Video - My Dream Canvas.md",
+                "file": "08 - Zettelkasten Method0/1 - Fleeting Notes/Percobaan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video - My Dream Canvas"
+              "title": "Backlinks for Percobaan"
             }
           },
           {
@@ -203,8 +203,8 @@
             "state": {
               "type": "timer-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "timer",
+              "title": "Timer"
             }
           },
           {
@@ -216,8 +216,19 @@
               "icon": "sigma",
               "title": "Mathpad"
             }
+          },
+          {
+            "id": "a64cd8a4fe900b52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -235,16 +246,21 @@
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "widgets:Add widget": false,
       "pomodoro-timer:Toggle timer panel": false,
       "tldraw:Create new tldrawing": false,
       "mathpad:Open Mathpad": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf286aea4237da5f",
+  "active": "073d2b7a28f1042a",
   "lastOpenFiles": [
+    "00 - Homepage/KATANYA MAU SUKSES, BELAJAR YANG BENER!!!.md",
+    "08 - Zettelkasten Method0/1 - Fleeting Notes/Percobaan.md",
+    "08 - Zettelkasten Method0/1 - Fleeting Notes/Untitled.md",
+    "05 - Daily Notes/2025/2025-04-09.md",
+    "04 - Archives/Video - My Dream Canvas.md",
     "04 - Archives/Tugas-Ide Kreatif.md",
     "04 - Archives/Tempat Sampah Otomatis.md",
     "04 - Archives/Pembelajar Dewasa.md",
@@ -255,7 +271,6 @@
     "04 - Archives/Assessment Karir Mahasiswa dan Pasca Kampus.md",
     "04 - Archives/Action Plan.md",
     "01 - Projects/Portfolio.md",
-    "00 - Homepage/KATANYA MAU SUKSES, BELAJAR YANG BENER!!!.md",
     "README.md",
     "PDF/KRAI/Analisa Sistem Pelontar.pdf",
     "07 - Perkuliahan/Semester 1/Fisika Dasar 1/Catatan/Fluida Dinamis.md",
@@ -264,7 +279,6 @@
     "06 - Tasks/Yesterday Plan.md",
     "06 - Tasks/Notes Tasks.md",
     "06 - Tasks/Class Tasks.md",
-    "05 - Daily Notes/2025/2025-04-09.md",
     "02 - Areas/Chemistry/Ikatan Kimia & Bentuk Molekul/Ikatan Kimia, Bentuk Molekul & Gaya Antarmolekul.md",
     "08 - Zettelkasten Method/3 - Permanent Notes",
     "08 - Zettelkasten Method/2 - Literature Notes",
@@ -278,9 +292,6 @@
     "02 - Areas/Chemistry/Konfigurasi Elektron & Bilangan Kuantum/Menentukan Golongan & Periode dari Konfigurasi.md",
     "03 - Resources/Algorithm and Data Structure.md",
     "03 - Resources/Obsidian Documentation.md",
-    "07 - Perkuliahan/Semester 2/Fisika Dasar 2/Text Book.md",
-    "02 - Areas/Physics/Hukum Gerak Newton/Penerapan Hukum Gerak Newton.md",
-    "02 - Areas/PKM/RE - Mikroorganisme & PID/Reference.md",
     "02 - Areas/SRT-KRAI/Perhitungan/3 Omni Wheel.excalidraw.png",
     "Assets/Praktikum FIsdas2/fluks-bidang-datar.png",
     "Assets/Praktikum FIsdas2/Screenshot 2025-04-04 185430.png",
