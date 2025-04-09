@@ -1,0 +1,17 @@
+div[src$="#right"] {
+	text-align:right;
+}
+div[src$="#left"] {
+	text-align:left;
+}
+div[src$="#center"] {
+	text-align:center;
+	/* border-top-left-radius: 10px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 20px; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-justify: inter-word;
+}

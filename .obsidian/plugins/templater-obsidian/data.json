@@ -1,0 +1,70 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "01 - Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "02 - Areas",
+      "template": "Templates/Area Template.md"
+    },
+    {
+      "folder": "03 - Resources",
+      "template": "Templates/Resource Template.md"
+    },
+    {
+      "folder": "05 - Daily Notes/2024",
+      "template": "Templates/Daily Template.md"
+    },
+    {
+      "folder": "05 - Tasks",
+      "template": "Templates/Tasks Template.md"
+    },
+    {
+      "folder": "07 - Perkuliahan",
+      "template": "Templates/Perkuliahan Template.md"
+    },
+    {
+      "folder": "08 - Fleeting Notes",
+      "template": "Templates/Zettelkasten Template.md"
+    },
+    {
+      "folder": "09 - Literature Notes",
+      "template": "Templates/Zettelkasten Template.md"
+    },
+    {
+      "folder": "10 - Permanent Notes",
+      "template": "Templates/Zettelkasten Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

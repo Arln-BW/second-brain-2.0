@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "images-alignment",
+    "main-images-alignment",
+    "checkboxes",
+    "properties-on-hover",
+    "MCL Multi Column",
+    "main-alignment",
+    "main-cosmos-general-tweaks",
+    "main-cyanvoxels-general-tweaks",
+    "main-daily-note-themes"
+  ],
+  "theme": "system"
+}
