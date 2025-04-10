@@ -7,7 +7,6 @@ banner_x:
 ```widgets
 type: clock
 ```
-## (Gak tau kenapa banner gak bisa ke tengah, keknya copy asal2an hehe)
 
 >[!multi-column]
 > 
