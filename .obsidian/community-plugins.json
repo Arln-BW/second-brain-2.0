@@ -10,11 +10,11 @@
   "widgets",
   "pomodoro-timer",
   "custom-note-width",
-  "obsidian-banners",
   "dataview",
   "tldraw",
   "mathpad",
   "obsidian-kanban",
   "obsidian-tikzjax",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-banners"
 ]
