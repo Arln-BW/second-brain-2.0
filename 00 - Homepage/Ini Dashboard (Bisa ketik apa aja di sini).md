@@ -1,7 +1,7 @@
 ---
-banner: "![[ponyo.gif]]"
-banner_y: 0.17428
-banner_lock: "true"
+banner: "![[timmy.gif]]"
+banner_y: 0.32127
+banner_lock: "false"
 ---
 ```widgets
 type: clock

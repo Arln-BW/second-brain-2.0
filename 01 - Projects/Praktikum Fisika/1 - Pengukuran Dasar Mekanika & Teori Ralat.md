@@ -3,9 +3,9 @@ Status:
   - 🟨
 tags:
   - "#task"
-Links: "[[Tracking/Praktikum|Praktikum]]"
+Links: "[[99 - Temp/Tracking/Praktikum|Praktikum]]"
 Deadline: 2024-09-09T13:00:00
-Area:
+Area: 
 ---
 ---
 [Punyaku](https://drive.google.com/drive/folders/1vi2jFx5av1kXOA-7HZQU3nO4bUKSzNJy)

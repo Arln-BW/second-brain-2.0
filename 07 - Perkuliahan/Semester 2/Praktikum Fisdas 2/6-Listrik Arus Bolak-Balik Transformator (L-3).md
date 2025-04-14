@@ -2,7 +2,7 @@
 tags:
   - prakFisdas2
 Time: 
-Links: "[[Tracking/Praktikum|Praktikum]]"
+Links: "[[99 - Temp/Tracking/Praktikum|Praktikum]]"
 ---
 ----
 ## WLeee ndak boleh liat

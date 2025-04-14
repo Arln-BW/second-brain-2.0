@@ -2,9 +2,9 @@
 Status: 
 tags:
   - prakKimdas1
-Links: "[[Tracking/Praktikum|Praktikum]]"
+Links: "[[99 - Temp/Tracking/Praktikum|Praktikum]]"
 Deadline: 2024-09-17T07:00:00
-Area:
+Area: 
 ---
 ---
 

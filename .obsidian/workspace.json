@@ -48,31 +48,13 @@
             }
           },
           {
-            "id": "57bc6f464014d675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Daily Notes/2025/2025-04-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-13"
-            }
-          },
-          {
             "id": "ed84b8b4dac16746",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Daily Notes/2025/2025-04-14.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-04-14"
+              "title": "New tab"
             }
           }
         ]
@@ -195,23 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Homepage/KATANYA MAU SUKSES, BELAJAR YANG BENER!!!.md",
+                "file": "00 - Homepage/Ini Dashboard (Bisa ketik apa aja di sini).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KATANYA MAU SUKSES, BELAJAR YANG BENER!!!"
-            }
-          },
-          {
-            "id": "195d61d9fc14eba6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Ini Dashboard (Bisa ketik apa aja di sini)"
             }
           },
           {
@@ -265,11 +237,27 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
+      },
+      {
+        "id": "38e8cec24d2f3757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "195d61d9fc14eba6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,15 +279,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9ad4e9c41711dae",
+  "active": "a64cd8a4fe900b52",
   "lastOpenFiles": [
-    "00 - Homepage/Jadwal Kuliah.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-14 16.37.27.excalidraw.md",
+    "Excalidraw/Perhitungan.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Perhitungan.excalidraw.md",
+    "Excalidraw/Ideas.excalidraw.md",
+    "Excalidraw/Hukum Dasar Kimia.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-21 22.24.59.excalidraw.md",
+    "Excalidraw/Coretan 2024-11-07.excalidraw.png",
+    "Excalidraw/Coretan 2024-11-07.excalidraw.md",
+    "Excalidraw/3d-coordinate-systems-graphs.excalidrawlib",
+    "Excalidraw",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022/two5.png",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022/two4.png",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022/two3.png",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022/two2.png",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022/two1.png",
+    "99 - Temp/Assets/Tugas/Termodinamika/usaha-carnot.png",
+    "99 - Temp/Assets/Tugas/Termodinamika/transfer-momentum.png",
+    "99 - Temp/Assets/Tugas/Termodinamika/sistem.png",
+    "99 - Temp/Assets/Tugas/Termodinamika/sistem.jpg",
+    "99 - Temp/Assets/Physics/Teori Kinetik Gas/derajat-kebebasan2.jfif",
+    "99 - Temp/Assets/Kalkulus/UAS - 2024/2022",
+    "99 - Temp/Assets/Tugas/Termodinamika",
+    "99 - Temp/Assets/Tugas/Komunikasi Ilmiah",
+    "99 - Temp/Assets/SRT/Robot 2025",
+    "99 - Temp/Assets/SRT/Physics Research",
+    "99 - Temp/Assets/SRT/Kalman Filter",
+    "Excalidraw/Coretan 2024-11-07.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-21 22.24.59.excalidraw.md",
+    "Excalidraw/Hukum Dasar Kimia.excalidraw.md",
+    "05 - Daily Notes/2025/2025-04-14.md",
     "00 - Homepage/Ini Dashboard (Bisa ketik apa aja di sini).md",
+    "00 - Homepage/Jadwal Kuliah.excalidraw.md",
     "00 - Homepage/Catatan Asal Mekanika 1.md",
     "00 - Homepage/Catatan Asal Mekanika 2.md",
     "00 - Homepage/Acatan Asal Termodinamika 1.md",
     "00 - Homepage/Alpro.md",
-    "05 - Daily Notes/2025/2025-04-14.md",
     "04 - Archives/Crafting Your Story with Oxyvit.md",
     "04 - Archives/Action Plan.md",
     "05 - Daily Notes/2025/2025-04-13.md",
@@ -309,36 +327,6 @@
     "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/3-Koordinat Polar.excalidraw.md",
     "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/2-Koordinat Kartesian.excalidraw.md",
     "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/1b-Analisis Vektor.excalidraw.md",
-    "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/1a-Vektor.excalidraw.md",
-    "Assets/banner/howls.gif",
-    "Assets/banner/ponyo.gif",
-    "Assets/banner/totoro2.gif",
-    "Assets/banner/kiki.gif",
-    "Assets/banner/totoro1.gif",
-    "05 - Daily Notes/2025/2025-04-10.md",
-    "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/4-Koordinat Polar.excalidraw.md",
-    "05 - Daily Notes/2025/2025-04-09.md",
-    "07 - Perkuliahan/Semester 2/Algoritma & Pemrograman/Tugas/Debit Aliran Fluida.md",
-    "07 - Perkuliahan/Semester 2/Biologi/PDF Eldiru/1-Sel & Jaringan Tumbuhan.excalidraw.md",
-    "07 - Perkuliahan/Semester 2/Fisika Dasar 2/Diktat/Bab 1 - Hukum Coulomb.excalidraw.md",
-    "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/3-Gerak Koordinat Kartesian.excalidraw.md",
-    "07 - Perkuliahan/Semester 2/Mekanika/Handwriting/2-Koordinat Polar.excalidraw.md",
-    "Templates/Project Template.md",
-    "PDF/KRAI/Analisa Sistem Pelontar.pdf",
-    "07 - Perkuliahan/Semester 1/Kalkulus/Hand Writing/2a-Integral Pecahan Parsial.png",
-    "PDF/Diktat/Diktat Fisika Dasar 1.pdf",
-    "08 - Zettelkasten Method/3 - Permanent Notes",
-    "08 - Zettelkasten Method/2 - Literature Notes",
-    "08 - Zettelkasten Method/2- Literature Notes",
-    "08 - Zettelkasten Method/1 - Fleeting Notes/Maret",
-    "08 - Zettelkasten Method/1 - Fleeting Notes/April",
-    "08 - Zettelkasten Method/1 - Fleeting Notes",
-    "08 - Zettelkasten Method/10 - Permanent Notes",
-    "08 - Zettelkasten Method/09 - Literature Notes",
-    "02 - Areas/SRT-KRAI/Perhitungan/3 Omni Wheel.excalidraw.png",
-    "Assets/Praktikum FIsdas2/fluks-bidang-datar.png",
-    "Assets/Praktikum FIsdas2/Screenshot 2025-04-04 185430.png",
-    "Assets/Tugas/Termodinamika/Proses_Termodinamika.jpg",
     "Untitled.canvas",
     "2. Areas/SRT-KRAI/OPREC/Untitled.canvas",
     "01 - Projects/Praktikum Fisika/Pengukuran Dasar Mekanika dan Teori Ralat.canvas",
