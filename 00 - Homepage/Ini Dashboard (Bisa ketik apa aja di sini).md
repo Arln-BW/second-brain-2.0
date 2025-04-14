@@ -1,6 +1,6 @@
 ---
-banner: "![[howls.gif]]"
-banner_y: 1
+banner: "![[ponyo.gif]]"
+banner_y: 0.17428
 banner_lock: "true"
 ---
 ```widgets
